@@ -42,5 +42,6 @@ This example, unmodified, will run the create a `report.md` file with the output
 The slogan_maker Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
 
 You can see a demo of this project here:
+https://www.linkedin.com/posts/sihame-yamlahi-alami-405a82226_ai-machinelearning-aiprojects-activity-7246809058177880066-CUhl?utm_source=share&utm_medium=member_desktop
 
 # slogan_maker
